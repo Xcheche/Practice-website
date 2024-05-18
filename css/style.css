@@ -33,9 +33,11 @@ header img{     padding-top: 12px;}
     color: #FB6376;
 }
 #selected{color: #5762D5;}
+/* svg */
 header svg:hover{ cursor: pointer;}
 #moon-icon{ transform: translateY(-5px); display: none;}
 #sun-icon{ transform: translateY(-5px);}
+/* end */
 
 /* ---------------- intro section ---------------- */
 input{  margin:0 0 10px 0;}
